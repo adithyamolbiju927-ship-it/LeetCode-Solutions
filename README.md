@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
