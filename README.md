@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
