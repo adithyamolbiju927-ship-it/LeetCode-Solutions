@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
