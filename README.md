@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## String
 |  |
 | ------- |
