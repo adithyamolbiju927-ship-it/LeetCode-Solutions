@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
