@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -98,8 +100,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0821-shortest-distance-to-a-character](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
