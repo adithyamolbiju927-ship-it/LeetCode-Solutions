@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0868-binary-gap) |
 ## Matrix
 |  |
 | ------- |
