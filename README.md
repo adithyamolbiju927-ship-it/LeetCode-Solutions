@@ -108,10 +108,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0868-binary-gap) |
 ## Matrix
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
