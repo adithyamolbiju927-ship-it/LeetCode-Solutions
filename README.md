@@ -105,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0401-binary-watch](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0868-binary-gap) |
 ## Matrix
