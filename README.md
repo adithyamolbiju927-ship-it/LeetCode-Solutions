@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |
