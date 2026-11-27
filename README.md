@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Simulation
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Floyd's Cycle Finding Algorithm
