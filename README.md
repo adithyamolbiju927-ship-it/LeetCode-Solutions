@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0812-largest-triangle-area](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0733-flood-fill](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0812-largest-triangle-area](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 ## Backtracking
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0338-counting-bits) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/adithyamolbiju927-ship-it/LeetCode-Solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
